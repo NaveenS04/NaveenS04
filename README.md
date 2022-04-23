@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 💞️ I’m looking to collaborate on Kaggle and github
 - 📫 You can reach me on 
--        linkedin profile :
+-        linkedin profile : https://www.linkedin.com/in/naveen-sekar/
 -        kaggle profile : https://www.kaggle.com/naveenai
 -        gmail : s.naveen759@gmail.com
     
